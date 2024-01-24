@@ -51,7 +51,7 @@
                                                     <th scope="col">Complete Name</th>
                                                     <th scope="col">Strand</th>
                                                     <th scope="col">Year</th>
-                                                    <th scope="col">Contact</th>afsdfsfasdf
+                                                    <th scope="col">Contact</th>
                                                     <th scope="col">Email</th>
                                                     <th scope="col">Account</th>
                                                     <th scope="col">Action</th>
